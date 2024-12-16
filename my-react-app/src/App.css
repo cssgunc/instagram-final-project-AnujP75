@@ -1,0 +1,11 @@
+#Nav {
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 2%;
+}
+
+#Space {
+    margin-left: 1%;
+    margin-right: 1%;
+}
