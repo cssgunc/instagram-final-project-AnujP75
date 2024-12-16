@@ -69,7 +69,7 @@ Once you've completed your Instagram clone, make sure to review the requirements
    - You're done!! 🎉🎉🎉
 
 
-Screenshot.jpg
+![Screenshot.jpg](https://github.com/cssgunc/instagram-final-project-AnujP75/blob/main/Screenshot.jpg)
 
 
 ## Resources
